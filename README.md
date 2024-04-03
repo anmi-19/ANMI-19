@@ -22,6 +22,6 @@
   <a href="https://mail.google.com/laistei4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lais-teixeira-dos-santos-1aa487244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![bunny animation](https://github.com/anmi-19/anmi-19/blob/output/github-contribution-grid-bunny.svg)
+  BUNNY![bunny animation](https://github.com/anmi-19/anmi-19/blob/output/github-contribution-grid-bunny.svg)
 
 </div>
